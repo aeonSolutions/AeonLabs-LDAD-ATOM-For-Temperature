@@ -1,5 +1,9 @@
 # AeonLabs LDAD ATOM For Temperature
 This repo contains the KiCad files for the LDAD ATOM features 1 DS18b20 temperature sensor, has WIFI and BLE connectivity, externally powered 3.3V to 12V such as a USB plug.
+
+LDAD ATOM features 1 I2C (or 1 digital in)  connection, has WIFI and BLE connectivity, externally powered 3.3V to 12V such as a USB plug. This PCB was made to Fit a 45x25mm enclosure.
+It can connect 1 digital sensor and up to 8 I2C sensors.
+
 This PCB was made to Fit a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) enclosure.
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_LDAD_ATOM_For_Temperature.svg)
