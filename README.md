@@ -12,6 +12,12 @@ This PCB was made to Fit a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) e
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
+
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-Temperature/blob/main/designs/working_green.png)  revision 1.0 tested and working.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 1.0
   
